@@ -14,6 +14,7 @@
   "author": "hl",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "ws": "^2.2.3"
   }
 }
